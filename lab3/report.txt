@@ -1,0 +1,17 @@
+EECS468 CUDA
+Tianqi Gao (NETID: tgx588)
+Weihan Chu(NETID: wcm350)
+In our program we use more streaming multiprocessors to improve the performance of our program. One thing we are find difficult is the calculation of row and column id. In conclusion: we are satisfied with the current performance of our program.
+
+[tgx588@joker release]$ ./lab3
+    Timing 'ref_2dhisto' started
+        GetTimeOfDay Time (for 1000 iterations) = 11.077
+        Clock Time        (for 1000 iterations) = 11.06
+    Timing 'ref_2dhisto' ended
+    Timing 'opt_2dhisto' started
+        GetTimeOfDay Time (for 1000 iterations) = 1.319
+        Clock Time        (for 1000 iterations) = 1.31
+    Timing 'opt_2dhisto' ended
+
+    Test PASSED
+
