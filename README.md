@@ -1,5 +1,5 @@
 # EECS-368-Programming-Massively-Parallel-Processors-with-CUDA
-_February 2016_ <br/>
+_Winter 2016_ <br/>
 _Course: Programming-Massively-Parallel-Processors-with-CUDA, Northwestern University, Evanston, IL_
 
 ## Lab1:Matrix multiplication
